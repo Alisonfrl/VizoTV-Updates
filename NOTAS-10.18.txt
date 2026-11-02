@@ -1,0 +1,6 @@
+Vizo TV 10.18
+
+Preparação para distribuição: configuração inicial vazia, sem credenciais de teste embutidas. Atualiza o pacote existente com a mesma assinatura; mantém o login salvo no aparelho.
+
+Esta versão mantém as alterações de reprodução 4K da 10.17. O atualizador dentro do app ainda será implementado.
+

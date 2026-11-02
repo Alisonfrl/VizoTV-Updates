@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 55,
+  "versionName": "10.18",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.18/VizoTV-10.18.apk",
+  "sha256": "7b81d0b9ce4ba591816607eda549b973764d3a3bee55aadfb2e2b2368b2b1fb5",
+  "sizeBytes": 2667902,
+  "notes": "Configuração inicial sem credenciais de teste. Mantém ajustes de reprodução 4K da versão 10.17."
+}
