@@ -1,0 +1,5 @@
+Vizo TV 10.20
+
+Corrige o recorte da borda do botão ampliado ao receber foco na tela de atualizações. Mantém os recursos da 10.19 e as configurações locais.
+
+No Vizo 10.19: Ajustes → Atualizações do aplicativo → Verificar novamente → Baixar atualização → Instalar atualização. O Android pede confirmação e, na primeira vez, pode exigir autorização para instalar apps pelo Vizo.
