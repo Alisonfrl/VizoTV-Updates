@@ -1,0 +1,31 @@
+name: Publicar Vizo TV 10.19
+on:
+  push:
+    paths: ['.github/workflows/publicar-10.19.yml']
+permissions:
+  contents: write
+jobs:
+  publicar:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Obter pacote revisado e verificar integridade
+        env:
+          DOWNLOAD_URL: 'https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-0f84-820e-a2ac-94b84838865a/raw?se=2026-11-02T03%3A13%3A46Z&sp=r&sv=2026-02-06&sr=b&scid=a269cbfc-6bcd-40c2-b317-f6d795d839ac&skoid=db6dad9e-03ee-465b-aef6-ce0f63a161dc&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-01T11%3A48%3A49Z&ske=2026-11-02T11%3A48%3A49Z&sks=b&skv=2026-02-06&sig=f/LqzIbrRK9uPMAI915LRMVsldPCuKzHMJb2f8kC8X4%3D'
+        run: |
+          curl --fail --silent --show-error --location --max-time 90 "$DOWNLOAD_URL" -o /tmp/vizo.zip
+          unzip -p /tmp/vizo.zip build/VizoTV-VisualLab-10.19.apk > /tmp/VizoTV-10.19.apk
+          echo "69705abc14a940eab3bd13bbb9db7612cea9576a44b2353fe057201b4b55b4ca  /tmp/VizoTV-10.19.apk" | sha256sum -c -
+          printf '%s\n' "69705abc14a940eab3bd13bbb9db7612cea9576a44b2353fe057201b4b55b4ca  VizoTV-10.19.apk" > /tmp/SHA256SUMS.txt
+      - name: Publicar APK e manifesto
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create v10.19 /tmp/VizoTV-10.19.apk /tmp/SHA256SUMS.txt --title "Vizo TV 10.19" --notes-file NOTAS-10.19.txt
+          cp update-next.json update.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add update.json
+          git commit -m "Ativa manifesto 10.19 após publicar APK"
+          git push origin HEAD:main

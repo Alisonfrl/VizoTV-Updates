@@ -1,0 +1,10 @@
+Vizo TV 10.19
+
+- Ajustes → Atualizações do aplicativo: consulta o canal público, baixa e valida tamanho, SHA-256, pacote, versão e assinatura antes de abrir o instalador do Android.
+- Botão Fonte na barra de canais: lista somente as fontes da qualidade selecionada, com a atual marcada.
+- Indicador de volume no aplicativo, com ícone, barra fina na cor do tema e porcentagem. Depende de o firmware entregar os comandos ao app; não altera o indicador fora do Vizo.
+- Mantém os ajustes 4K e as configurações salvas.
+
+Instale esta versão uma vez pelo método atual para ter o menu de atualizações. A instalação pelo app pede confirmação do Android e pode pedir autorização de fonte desconhecida na primeira vez.
+
+Compilação e verificações automatizadas passaram. Teste em execução no emulador indisponível por falha de aceleração do Windows; fluxo de instalação e controle HDMI-CEC ainda precisam de validação no H8.

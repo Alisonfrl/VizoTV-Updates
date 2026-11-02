@@ -1,18 +1,9 @@
 # Vizo TV — Atualizações
 
-Canal de distribuição de APKs e notas de versão do Vizo TV para Android TV.
+Canal público de distribuição do Vizo TV para Android TV. APKs e notas estão em Releases. O código do aplicativo e as chaves de assinatura são mantidos separadamente.
 
-Este repositório contém somente arquivos de distribuição. O desenvolvimento é mantido separadamente. Não inclui código-fonte do aplicativo, chave de assinatura, credenciais de listas ou configurações de usuários.
+A partir da 10.19: Ajustes → Atualizações do aplicativo. A verificação é manual. O download é validado e a instalação exige confirmação do Android. A primeira autorização para instalar apps desconhecidos pode ser solicitada.
 
-## Instalação
+Uma atualização com a mesma assinatura mantém as configurações locais. Instalações novas não incluem listas ou credenciais.
 
-Baixe o APK publicado em Releases e confirme a instalação no Android. Atualizações oficiais usam o pacote br.alison.tv4k e a mesma assinatura. Uma atualização preserva a configuração existente; uma instalação nova pede os dados da sua própria lista.
-
-## Versão 10.18
-
-- Remove dados de teste preenchidos no formulário de configuração.
-- Mantém os ajustes de buffer, diagnóstico 4K, modo assíncrono opcional e abertura externa no Kodi da versão 10.17.
-- Ainda não inclui o atualizador dentro do aplicativo. O canal será usado por esse recurso em uma próxima versão.
-
-Não há canais, filmes, séries ou assinaturas incluídos. Nunca publique credenciais, arquivos de configuração, backups ou chaves neste repositório.
-
+update.json aponta para a última versão publicada. Não envie senhas, backups ou configurações de usuários a este repositório.
