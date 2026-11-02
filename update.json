@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 56,
-  "versionName": "10.19",
+  "versionCode": 57,
+  "versionName": "10.20",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.19/VizoTV-10.19.apk",
-  "sha256": "69705abc14a940eab3bd13bbb9db7612cea9576a44b2353fe057201b4b55b4ca",
-  "sizeBytes": 2676946,
-  "notes": "Atualizador no aplicativo, seleção de fontes por qualidade e indicador de volume. Mantém os ajustes de reprodução 4K."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.20/VizoTV-10.20.apk",
+  "sha256": "27e3b71a1671ccf2e13deb2fd6a3ee9a7784f7b5d105f4932257f65bbfd2b681",
+  "sizeBytes": 2676935,
+  "notes": "Corrige o recorte da borda do botão com foco na tela de atualizações. Mantém fontes por qualidade, indicador de volume e ajustes 4K."
 }
