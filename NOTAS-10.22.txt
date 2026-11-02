@@ -1,0 +1,10 @@
+Vizo TV 10.22
+
+- Agenda confirmada por data de Brasília: um canal sem data não gera mais uma partida de hoje.
+- Referência de organização: guia do BrasilTV observado no H8; competição, times em lados opostos e horário/data no centro.
+- Escudos preservados independentemente da associação de canais; identificação por iniciais se a imagem falhar.
+- Filtros Todos, Com transmissão e Lembretes. Partidas sem canal associado são identificadas explicitamente.
+- Resultado de consulta que atravessa meia-noite é recusado. Jogos encerrados confirmados continuam ocultos.
+- Associação conservadora por dois times e horário, sem duplicar IDs de transmissão.
+
+Compilação, assinatura e testes passaram, incluindo 32 verificações de agenda. O visual ainda precisa de validação no HTV. Mantém os ajustes de reprodução 4K, fontes por qualidade e volume sem numeral.
