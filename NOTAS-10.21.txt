@@ -1,0 +1,8 @@
+Vizo TV 10.21
+
+- Botões do componente compartilhado mantêm tamanho fixo ao receber foco, evitando recorte de bordas. Destaque por cor e contorno preservado.
+- TV ao vivo: somente a opção sob o cursor fica destacada durante a navegação das categorias. Ao entrar na lista de canais, fica marcada a categoria aberta.
+- Volume: indicador sem numeral e sem porcentagem. Mantém os níveis nativos do Android e a barra visual, com aviso de mudo.
+- Verificação de atualizações evita manifesto em cache desatualizado.
+
+Mantém fontes por qualidade, ajustes 4K e configurações existentes. Compilação, assinatura e testes automatizados passaram. A aparência e a navegação desta versão ainda precisam ser conferidas no HTV após instalar.
