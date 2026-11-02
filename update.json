@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 58,
-  "versionName": "10.21",
+  "versionCode": 59,
+  "versionName": "10.22",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.21/VizoTV-10.21.apk",
-  "sha256": "08b3b92cdc0e35fba13619a55119bd0d34d983b5b336ef40266549ed2174b35e",
-  "sizeBytes": 2677280,
-  "notes": "Botões sem ampliação para evitar bordas cortadas. Uma única categoria destacada ao navegar na TV ao vivo. Indicador de volume sem numeral nem porcentagem. Consulta de atualizações sem cache antigo."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.22/VizoTV-10.22.apk",
+  "sha256": "3b1ddf5bc2357c6f0a5651bba41aac01a084f5dd7df695a7a8ecb2c49e6f9e20",
+  "sizeBytes": 2679008,
+  "notes": "Jogos do dia redesenhado: agenda confirmada por data de Brasília, escudos preservados, horário e data no centro e filtros Todos, Com transmissão e Lembretes. Canais sem data não criam mais jogos de hoje."
 }
