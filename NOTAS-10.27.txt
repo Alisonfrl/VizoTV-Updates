@@ -1,0 +1,7 @@
+Vizo TV 10.27
+
+- Jogos do dia não esvazia mais quando a atualização falha: continua mostrando a última agenda boa do dia.
+- Se a lista não responder, tenta de novo uma vez e, se falhar, usa os canais da última consulta.
+- A linha de status mostra o motivo da falha (lista ou agenda).
+
+Mantém as configurações locais.

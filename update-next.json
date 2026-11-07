@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 64,
+  "versionName": "10.27",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.27/VizoTV-10.27.apk",
+  "sha256": "c470c3938db144fa3a7867d9926120d67183dc1929c1b3874ae61b4fbf059fea",
+  "sizeBytes": 2777171,
+  "notes": "Jogos do dia não some mais quando uma atualização falha: mantém a última agenda e mostra o motivo."
+}
