@@ -1,0 +1,8 @@
+Vizo TV 10.24
+
+- Jogos do dia pode usar a API-Football: escudos em boa qualidade, campeonato, horário e jogo ao vivo ou encerrado numa única consulta leve.
+- Botão "Agenda" na aba: cole a chave da API pelo celular (mesmo Wi-Fi). Sem chave, continua a agenda antiga.
+- A aba abre na hora com a última lista do dia e atualiza por trás.
+- Continua mostrando só jogos com transmissão na sua lista.
+
+Mantém as configurações locais. Ainda precisa ser conferida no HTV.
