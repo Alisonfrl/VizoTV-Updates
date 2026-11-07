@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 59,
-  "versionName": "10.22",
+  "versionCode": 60,
+  "versionName": "10.23",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.22/VizoTV-10.22.apk",
-  "sha256": "3b1ddf5bc2357c6f0a5651bba41aac01a084f5dd7df695a7a8ecb2c49e6f9e20",
-  "sizeBytes": 2679008,
-  "notes": "Jogos do dia redesenhado: agenda confirmada por data de Brasília, escudos preservados, horário e data no centro e filtros Todos, Com transmissão e Lembretes. Canais sem data não criam mais jogos de hoje."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.23/VizoTV-10.23.apk",
+  "sha256": "94ae90751937a2963d254097ae5ce004c24617dc775c2c0c3243c71d5efe94a0",
+  "sizeBytes": 2772481,
+  "notes": "Jogos do dia só com partidas que têm transmissão na sua lista, escudos maiores sem fundo branco e carregamento mais rápido."
 }
