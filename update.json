@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 63,
-  "versionName": "10.26",
+  "versionCode": 64,
+  "versionName": "10.27",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.26/VizoTV-10.26.apk",
-  "sha256": "74f2a96b0254793ed463dace53380d3cb9a4587eaccd47c45cccfc767c06583d",
-  "sizeBytes": 2775822,
-  "notes": "Jogos do dia passa a usar a agenda da ESPN (jogos de hoje, sem chave); a agenda do site fica de reserva."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.27/VizoTV-10.27.apk",
+  "sha256": "c470c3938db144fa3a7867d9926120d67183dc1929c1b3874ae61b4fbf059fea",
+  "sizeBytes": 2777171,
+  "notes": "Jogos do dia não some mais quando uma atualização falha: mantém a última agenda e mostra o motivo."
 }
