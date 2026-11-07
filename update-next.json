@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 65,
+  "versionName": "10.28",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.28/VizoTV-10.28.apk",
+  "sha256": "51960629b1cb805d13c87b7150d89be004d709c70fab58cebe81ab445012ba57",
+  "sizeBytes": 2777729,
+  "notes": "Jogos do dia: corrige a consulta recusada pela ESPN (HTTP 400)."
+}

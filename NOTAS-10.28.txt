@@ -1,0 +1,6 @@
+Vizo TV 10.28
+
+- Jogos do dia: a ESPN recusava a consulta (HTTP 400). Agora consulta só o dia de hoje e, se a ESPN recusar, tenta um formato mais simples até funcionar.
+- A mensagem de erro mostra o primeiro motivo de falha, para facilitar o diagnóstico.
+
+Mantém as configurações locais.
