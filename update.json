@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 61,
-  "versionName": "10.24",
+  "versionCode": 62,
+  "versionName": "10.25",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.24/VizoTV-10.24.apk",
-  "sha256": "cb501b96813963dfe05705aff8f15c03af0ecac6e247712f6aeb9711b774402e",
-  "sizeBytes": 2776237,
-  "notes": "Jogos do dia com agenda pela API-Football (escudos em boa qualidade), abertura instantânea com a última lista e chave colada pelo celular."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.25/VizoTV-10.25.apk",
+  "sha256": "c420642c75ff4666807ccc0199660ed11c625e1ef33080979332eebe1b7dadd4",
+  "sizeBytes": 2776321,
+  "notes": "Jogos do dia volta para a agenda do site quando a API-Football recusar, e o Atualizar mostra o andamento."
 }
