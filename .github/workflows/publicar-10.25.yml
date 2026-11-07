@@ -1,0 +1,28 @@
+name: Publicar Vizo TV 10.25
+on:
+  push:
+    paths: ['.github/workflows/publicar-10.25.yml']
+permissions:
+  contents: write
+jobs:
+  publicar:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar APK
+        run: |
+          echo "c420642c75ff4666807ccc0199660ed11c625e1ef33080979332eebe1b7dadd4  publicar/VizoTV-10.25.apk" | sha256sum -c -
+          printf '%s\n' "c420642c75ff4666807ccc0199660ed11c625e1ef33080979332eebe1b7dadd4  VizoTV-10.25.apk" > /tmp/SHA256SUMS.txt
+      - name: Publicar release, ativar manifesto e limpar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create v10.25 publicar/VizoTV-10.25.apk /tmp/SHA256SUMS.txt --title "Vizo TV 10.25" --notes-file NOTAS-10.25.txt
+          cp update-next.json update.json
+          git rm -q -r publicar update-next.json .github/workflows/publicar-10.25.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add update.json
+          git commit -m "Ativa manifesto 10.25 e remove arquivos temporários"
+          git push origin HEAD:main

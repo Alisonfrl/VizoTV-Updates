@@ -1,0 +1,6 @@
+Vizo TV 10.25
+
+- Se a API-Football recusar a consulta, Jogos do dia volta sozinho para a agenda do site e mostra o motivo na linha de status.
+- O botão Atualizar volta a mostrar que está atualizando.
+
+Mantém as configurações locais.
