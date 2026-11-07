@@ -1,0 +1,7 @@
+Vizo TV 10.23
+
+- Jogos do dia mostra só as partidas que têm transmissão na sua lista (some campeonato amador e jogo sem canal). Filtros: Todos e Lembretes.
+- Escudos maiores e sem fundo branco.
+- Lista de jogos carrega mais rápido: lista, agenda e encerramentos são consultados ao mesmo tempo.
+
+Mantém as configurações locais. Ainda precisa ser conferida no HTV.
