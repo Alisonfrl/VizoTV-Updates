@@ -1,0 +1,7 @@
+Vizo TV 10.26
+
+- Jogos do dia busca a agenda de hoje na ESPN (Brasileirão, Copa do Brasil, Libertadores, Europa, seleções e outros), com horário, situação e escudos. Não precisa de chave.
+- Se a ESPN falhar, volta sozinho para a agenda do site.
+- Sai a API-Football e o botão Agenda (o plano grátis só trazia jogos antigos).
+
+Mantém as configurações locais.
