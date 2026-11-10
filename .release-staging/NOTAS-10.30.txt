@@ -1,0 +1,10 @@
+Vizo TV 10.30
+
+- Reprodução: preserva pausa, recupera falhas com tentativas limitadas e não pula o final por erro de conexão.
+- Biblioteca: favoritos e progresso separados por lista, gravação protegida e confirmação antes de apagar.
+- Pesquisa: mesma busca em todo o catálogo, em Filmes/Séries e dentro de cada categoria; canais agrupados sem repetição.
+- Navegação: retorno ao cartão e à prateleira de origem, com pesquisa e categoria preservadas.
+- Acabamento: senha oculta, textos revisados, títulos mais legíveis e foco mais visível.
+- Busca por voz removida.
+
+Mantém a conta, os favoritos, o progresso e as preferências existentes.

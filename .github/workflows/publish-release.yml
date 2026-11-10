@@ -11,21 +11,35 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - name: Identificar versão e validar manifesto
+        run: |
+          python3 - <<'PYTHON'
+          import json, re, os
+          from pathlib import Path
+          staged = json.loads(Path('.release-staging/update.json').read_text())
+          current = json.loads(Path('update.json').read_text())
+          version = staged['versionName']
+          assert re.fullmatch(r'[0-9]+(?:[.][0-9]+)+', version)
+          assert staged['packageName'] == 'br.alison.tv4k'
+          assert staged['versionCode'] > current['versionCode']
+          with open(os.environ['GITHUB_ENV'], 'a') as env:
+              env.write('VERSION=' + version + '\n')
+          PYTHON
       - name: Validar APK e publicar
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           cd .release-staging
           sha256sum -c SHA256SUMS.txt
-          unzip -t VizoTV-10.29.apk
-          gh release create v10.29 VizoTV-10.29.apk SHA256SUMS.txt --repo "$GITHUB_REPOSITORY" --title "Vizo TV 10.29" --notes-file NOTAS-10.29.txt --latest
+          unzip -t "VizoTV-$VERSION.apk"
+          gh release create "v$VERSION" "VizoTV-$VERSION.apk" SHA256SUMS.txt --repo "$GITHUB_REPOSITORY" --title "Vizo TV $VERSION" --notes-file "NOTAS-$VERSION.txt" --latest
       - name: Atualizar manifesto após publicação
         run: |
           cp .release-staging/update.json update.json
-          cp .release-staging/NOTAS-10.29.txt NOTAS-10.29.txt
+          cp ".release-staging/NOTAS-$VERSION.txt" "NOTAS-$VERSION.txt"
           git rm -r .release-staging
-          git add update.json NOTAS-10.29.txt
+          git add update.json "NOTAS-$VERSION.txt"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Publica manifesto Vizo TV 10.29 [skip ci]"
+          git commit -m "Publica manifesto Vizo TV $VERSION [skip ci]"
           git push origin HEAD:main
