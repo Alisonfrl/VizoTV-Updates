@@ -1,0 +1,8 @@
+Vizo TV 10.29
+
+- Pesquisa dentro de cada categoria de Filmes e Séries.
+- Os resultados são filtrados conforme você digita, ignorando maiúsculas e acentos.
+- Limpar a pesquisa restaura os títulos da categoria; trocar de categoria limpa a pesquisa.
+- Abrir detalhes e favoritar respeitam os resultados filtrados.
+
+Mantém as configurações locais.

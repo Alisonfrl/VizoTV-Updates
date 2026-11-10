@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 66,
+  "versionName": "10.29",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.29/VizoTV-10.29.apk",
+  "sha256": "00e11f151464fad1ad810aa9de6dc9d4ad24fe0b55da6dc8e3f11fc5d0ddb356",
+  "sizeBytes": 2684616,
+  "notes": "Pesquisa dentro de cada categoria de Filmes e Séries."
+}

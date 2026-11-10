@@ -1,0 +1,31 @@
+name: Publicar Vizo TV
+on:
+  push:
+    branches: [main]
+    paths: ['.release-staging/**']
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validar APK e publicar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd .release-staging
+          sha256sum -c SHA256SUMS.txt
+          unzip -t VizoTV-10.29.apk
+          gh release create v10.29 VizoTV-10.29.apk SHA256SUMS.txt --repo "$GITHUB_REPOSITORY" --title "Vizo TV 10.29" --notes-file NOTAS-10.29.txt --latest
+      - name: Atualizar manifesto após publicação
+        run: |
+          cp .release-staging/update.json update.json
+          cp .release-staging/NOTAS-10.29.txt NOTAS-10.29.txt
+          git rm -r .release-staging
+          git add update.json NOTAS-10.29.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Publica manifesto Vizo TV 10.29 [skip ci]"
+          git push origin HEAD:main
