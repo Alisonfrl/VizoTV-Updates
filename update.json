@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 67,
-  "versionName": "10.30",
+  "versionCode": 68,
+  "versionName": "10.31",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.30/VizoTV-10.30.apk",
-  "sha256": "c521c7bd633f78feca510abc05e2ef7d39afe76dbd95ee3e0cbb1a4b3c02877a",
-  "sizeBytes": 2691741,
-  "notes": "Reprodução mais confiável, biblioteca protegida por lista, busca unificada por categoria, retorno à posição de origem e ajustes de legibilidade. Busca por voz removida."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.31/VizoTV-10.31.apk",
+  "sha256": "0e02b98494b92790ebedaddf3cface3452377c030d44381d425ad3bee75afdfe",
+  "sizeBytes": 2930691,
+  "notes": "Retomada de sessão, novas opções de legendas, organização de categorias, versões de títulos e busca pelo celular com QR Code."
 }
