@@ -1,0 +1,14 @@
+Vizo TV 10.31
+
+- Retomada da reprodução e das telas após o Android encerrar o processo.
+- Legendas de texto e imagem com ajustes de tamanho, fundo e posição.
+- Seleção de versões identificáveis do mesmo título, com qualidade e idioma informados pela lista.
+- Prateleiras recicláveis para catálogos grandes.
+- Organização de categorias: fixar, ocultar, recuperar e ordenar títulos.
+- Integração com controles de mídia e foco de áudio do Android.
+- Texto ampliado, alto contraste e painel local de desempenho.
+- Busca pelo celular via QR Code e código temporário na mesma rede.
+- Busca por voz permanece removida.
+
+Mantém configurações, favoritos e histórico ao instalar por cima da versão atual.
+Validado em testes automatizados e emulador. Desempenho e leitura à distância ainda dependem de validação no HTV físico.
