@@ -1,0 +1,7 @@
+Vizo TV 10.32
+
+- Logo VZ redesenhada: V simétrico e Z inteiro, centralizados.
+- Abertura alinhada: anel de brilho e assinatura "vizo TV" no mesmo eixo da logo.
+- Ícone e banner atualizados com a nova logo.
+
+Mantém configurações, favoritos e histórico ao instalar por cima da versão atual.
