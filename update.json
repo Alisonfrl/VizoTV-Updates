@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 69,
-  "versionName": "10.32",
+  "versionCode": 70,
+  "versionName": "10.33",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.32/VizoTV-10.32.apk",
-  "sha256": "c883505240c32b116ba7330302f4355ae9abac0024d88c58c305adf81079d167",
-  "sizeBytes": 3038747,
-  "notes": "Nova logo VZ com V simétrico e abertura centralizada."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.33/VizoTV-10.33.apk",
+  "sha256": "4b50537b27a5be45019907cebca73627f5f780bc654e6a976ddf7598ae766b98",
+  "sizeBytes": 3043227,
+  "notes": "Personalizar visual: temas prontos, cores, fundo, botões, foco, cantos, fonte e animações."
 }
