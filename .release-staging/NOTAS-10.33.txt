@@ -1,0 +1,12 @@
+Vizo TV 10.33
+
+- Nova tela Ajustes → Aparência → Personalizar visual.
+- Temas prontos: Vizo, Cinema escuro, Neon, Suave, Clássico e Sem distrações.
+- Cor de destaque com 9 opções (novas: vermelho cinema, rosa, laranja e branco).
+- Fundo: grafite, preto puro, azul-noite ou chumbo quente; intensidade da cor ajustável.
+- Botões: contorno, sólido ou transparente. Cantos: retos, suaves ou arredondados.
+- Foco: contorno, preenchido ou contorno grosso; zoom no foco: sem, leve ou forte.
+- Fonte dos títulos: padrão, Chakra Petch ou condensada. Animações: normal, rápidas ou desligadas.
+- Botão para voltar ao visual padrão.
+
+Mantém configurações, favoritos e histórico ao instalar por cima da versão atual.
