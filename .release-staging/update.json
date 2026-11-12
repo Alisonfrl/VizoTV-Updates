@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 82,
+  "versionName": "10.45",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.45/VizoTV-10.45.apk",
+  "sha256": "81eb305fd90d69083758ac9953272a6f896e9c825022855d652a0c45951ef1f8",
+  "sizeBytes": 3266164,
+  "notes": "Abertura com uma luz percorrendo o contorno do vz enquanto carrega, e o mesmo ícone animado em todos os carregamentos de filmes, séries, ao vivo e jogos, sem texto ao lado."
+}
