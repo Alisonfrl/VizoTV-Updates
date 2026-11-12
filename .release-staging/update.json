@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 76,
+  "versionName": "10.39",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.39/VizoTV-10.39.apk",
+  "sha256": "d63d3386547961750ecd4df67cfc600078d6bc0512462ca7933eda439c0ffeb3",
+  "sizeBytes": 3152522,
+  "notes": "Redesenho: logo nova vz, menu em doca de vidro flutuante, Ajustes e todos os submenus em painéis de vidro, botões em vidro com seleção branca, Início com a capa em tela cheia e relógio, ícones novos e textos revisados. Versão de teste da branch redesenho."
+}

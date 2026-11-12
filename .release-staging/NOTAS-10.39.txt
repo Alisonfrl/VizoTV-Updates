@@ -1,0 +1,3 @@
+Vizo TV 10.39
+
+Redesenho: logo nova vz, menu em doca de vidro flutuante, Ajustes e todos os submenus em painéis de vidro, botões em vidro com seleção branca, Início com a capa em tela cheia e relógio, ícones novos e textos revisados. Versão de teste da branch redesenho.
