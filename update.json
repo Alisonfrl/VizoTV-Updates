@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 70,
-  "versionName": "10.33",
+  "versionCode": 72,
+  "versionName": "10.35",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.33/VizoTV-10.33.apk",
-  "sha256": "4b50537b27a5be45019907cebca73627f5f780bc654e6a976ddf7598ae766b98",
-  "sizeBytes": 3043227,
-  "notes": "Personalizar visual: temas prontos, cores, fundo, botões, foco, cantos, fonte e animações."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.35/VizoTV-10.35.apk",
+  "sha256": "739478b1d4071707b8cd5a8dcb104f1ab4d15f9b953e78450d513ddc8be373be",
+  "sizeBytes": 2941207,
+  "notes": "TV ao vivo com transição ao abrir a lista e o guia, destaque do Início que acompanha a seleção, placar ao vivo e agenda dos próximos dias, e faixa de episódios dentro do player."
 }
