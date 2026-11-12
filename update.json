@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 80,
-  "versionName": "10.43",
+  "versionCode": 81,
+  "versionName": "10.44",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.43/VizoTV-10.43.apk",
-  "sha256": "6cfdee30929a72f4d7d564a2e96e272f66ef65ba3a1afd57506d04267c9e0bb5",
-  "sizeBytes": 3266128,
-  "notes": "O canal da miniatura do Início vai para a tela cheia sem carregar de novo, e o menu lateral ficou menor, com as seções no meio e busca e ajustes no rodapé."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.44/VizoTV-10.44.apk",
+  "sha256": "cfb5ec231e02c3538c134f4469997e5e8db7e86309b5997622d7bad0c82b3ab8",
+  "sizeBytes": 3267446,
+  "notes": "Selo simples de resolução no player (4K, Full HD, HD 720), Ajustes em tela cheia que continua aberto ao ligar ou desligar opções, versão discreta no canto da abertura e nova animação da logo."
 }
