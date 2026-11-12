@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 86,
-  "versionName": "10.49",
+  "versionCode": 88,
+  "versionName": "10.51",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.49/VizoTV-10.49.apk",
-  "sha256": "c74c131ca50be82d0d2267e56995e6533668ed65cb1c611a1ccb23b6d4f96cad",
-  "sizeBytes": 3267320,
-  "notes": "App inteiro menor; nomes dos canais sem corte (um selo de qualidade só). OK no ao vivo volta para a tela Ao vivo com o canal marcado."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.51/VizoTV-10.51.apk",
+  "sha256": "246e96ee593d5c9547a52f99373e59718520959a6e169f0c5049f5f26c338c45",
+  "sizeBytes": 3267940,
+  "notes": "HUDs com leve contraste; selos de qualidade dos canais de volta; logo sem quadrado e luz da abertura mais fluida."
 }
