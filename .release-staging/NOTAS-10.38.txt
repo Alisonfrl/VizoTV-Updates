@@ -1,0 +1,3 @@
+Vizo TV 10.38
+
+Tema Sessão aplicado na atualização, botões novos com a cor da marca no item selecionado, tema Vizo anterior para voltar ao visual da 10.35, episódios aparecendo na ficha da série e aviso de carregamento na fonte normal.
