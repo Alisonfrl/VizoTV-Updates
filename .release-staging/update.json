@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 88,
+  "versionName": "10.51",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.51/VizoTV-10.51.apk",
+  "sha256": "246e96ee593d5c9547a52f99373e59718520959a6e169f0c5049f5f26c338c45",
+  "sizeBytes": 3267940,
+  "notes": "HUDs com leve contraste; selos de qualidade dos canais de volta; logo sem quadrado e luz da abertura mais fluida."
+}
