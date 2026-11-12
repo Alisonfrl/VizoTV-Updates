@@ -1,0 +1,3 @@
+Vizo TV 10.36
+
+Visual novo Sessão: símbolo, cores e fontes da marca, abertura mais simples com linha de carregamento, avisos de carregamento e internet lenta no player, menu de opções do player organizado em grupos e ficha de série com cartaz e lista de episódios.
