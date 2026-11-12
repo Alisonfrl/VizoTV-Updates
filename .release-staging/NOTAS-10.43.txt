@@ -1,0 +1,3 @@
+Vizo TV 10.43
+
+O canal da miniatura do Início vai para a tela cheia sem carregar de novo, e o menu lateral ficou menor, com as seções no meio e busca e ajustes no rodapé.
