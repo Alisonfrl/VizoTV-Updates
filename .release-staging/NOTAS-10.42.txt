@@ -1,0 +1,3 @@
+Vizo TV 10.42
+
+Menu lateral cabe inteiro na tela (Ajustes não fica mais cortado) e o canal que estava na miniatura do Início não congela mais ao abrir em tela cheia.

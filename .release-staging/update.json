@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 79,
+  "versionName": "10.42",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.42/VizoTV-10.42.apk",
+  "sha256": "1e5c2d6a5d105b64c7b7414803da0dc602bb60b9d72ae7c6e44537df615b911f",
+  "sizeBytes": 3265483,
+  "notes": "Menu lateral cabe inteiro na tela (Ajustes não fica mais cortado) e o canal que estava na miniatura do Início não congela mais ao abrir em tela cheia."
+}
