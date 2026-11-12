@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 89,
+  "versionName": "10.52",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.52/VizoTV-10.52.apk",
+  "sha256": "71ffaa77fef811649b5710e9132ebdb4d50baade972892bc5bd6666f47916d88",
+  "sizeBytes": 3267717,
+  "notes": "Logo com o degradê em movimento na abertura e no carregando (sem contorno nem luz)."
+}

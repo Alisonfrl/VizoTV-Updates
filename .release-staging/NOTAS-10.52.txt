@@ -1,0 +1,1 @@
+Logo com o degradê em movimento na abertura e no carregando (sem contorno nem luz).
