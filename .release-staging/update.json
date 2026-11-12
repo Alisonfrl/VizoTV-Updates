@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 78,
+  "versionName": "10.41",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.41/VizoTV-10.41.apk",
+  "sha256": "a8584c210db181a661e751617dc1917c335f3e3fedcb90f13df56d78ff05df40",
+  "sizeBytes": 3265094,
+  "notes": "Texto mais nítido na TV 4K: letras pequenas um pouco maiores e mais grossas, cores sem transparência e letras alinhadas aos pixels."
+}
