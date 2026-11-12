@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 73,
-  "versionName": "10.36",
+  "versionCode": 75,
+  "versionName": "10.38",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.36/VizoTV-10.36.apk",
-  "sha256": "b763c5c33ab688ce46f5fcda4e29002c12e85777a2fb4fe49c24166d87c93605",
-  "sizeBytes": 3017102,
-  "notes": "Visual novo Sessão: símbolo, cores e fontes da marca, abertura mais simples com linha de carregamento, avisos de carregamento e internet lenta no player, menu de opções do player organizado em grupos e ficha de série com cartaz e lista de episódios."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.38/VizoTV-10.38.apk",
+  "sha256": "a019cd11e3eac03b06949dcb3ae5aaf1f5b4d5bf8348a89d6648f2de77543273",
+  "sizeBytes": 3017564,
+  "notes": "Tema Sessão aplicado na atualização, botões novos com a cor da marca no item selecionado, tema Vizo anterior para voltar ao visual da 10.35, episódios aparecendo na ficha da série e aviso de carregamento na fonte normal."
 }
