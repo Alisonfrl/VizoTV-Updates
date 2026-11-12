@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 75,
-  "versionName": "10.38",
+  "versionCode": 76,
+  "versionName": "10.39",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.38/VizoTV-10.38.apk",
-  "sha256": "a019cd11e3eac03b06949dcb3ae5aaf1f5b4d5bf8348a89d6648f2de77543273",
-  "sizeBytes": 3017564,
-  "notes": "Tema Sessão aplicado na atualização, botões novos com a cor da marca no item selecionado, tema Vizo anterior para voltar ao visual da 10.35, episódios aparecendo na ficha da série e aviso de carregamento na fonte normal."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.39/VizoTV-10.39.apk",
+  "sha256": "d63d3386547961750ecd4df67cfc600078d6bc0512462ca7933eda439c0ffeb3",
+  "sizeBytes": 3152522,
+  "notes": "Redesenho: logo nova vz, menu em doca de vidro flutuante, Ajustes e todos os submenus em painéis de vidro, botões em vidro com seleção branca, Início com a capa em tela cheia e relógio, ícones novos e textos revisados. Versão de teste da branch redesenho."
 }
