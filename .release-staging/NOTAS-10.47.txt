@@ -1,0 +1,3 @@
+Vizo TV 10.47
+
+HUDs do player mais discretas (sem cartão, texto mais fino, botões menores) e OK no ao vivo abre a lista de canais; o guia de programação foi descontinuado.

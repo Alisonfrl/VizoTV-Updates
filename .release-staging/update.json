@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 84,
+  "versionName": "10.47",
+  "packageName": "br.alison.tv4k",
+  "minSdk": 21,
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.47/VizoTV-10.47.apk",
+  "sha256": "1b90f721d327f010f2aff1e9b50e046e3f412bc1b1571e79753fa4a8f8a36cb5",
+  "sizeBytes": 3267090,
+  "notes": "HUDs do player mais discretas (sem cartão, texto mais fino, botões menores) e OK no ao vivo abre a lista de canais; o guia de programação foi descontinuado."
+}
