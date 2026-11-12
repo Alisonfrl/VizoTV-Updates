@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 83,
-  "versionName": "10.46",
+  "versionCode": 84,
+  "versionName": "10.47",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.46/VizoTV-10.46.apk",
-  "sha256": "da6fbbf7590ca5b4b340623767cefc00a1063c777402f2b940845f2c8694ef55",
-  "sizeBytes": 3267099,
-  "notes": "Player em cartão com tempo, bolinha na linha e botões −10 s, Pausar e +10 s; barra do ao vivo em cartão; Início e TV ao vivo redesenhados; Jogos de hoje como ingresso; números em fonte própria; fade ao dar play; abertura completa só uma vez por dia; textos revisados."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.47/VizoTV-10.47.apk",
+  "sha256": "1b90f721d327f010f2aff1e9b50e046e3f412bc1b1571e79753fa4a8f8a36cb5",
+  "sizeBytes": 3267090,
+  "notes": "HUDs do player mais discretas (sem cartão, texto mais fino, botões menores) e OK no ao vivo abre a lista de canais; o guia de programação foi descontinuado."
 }
