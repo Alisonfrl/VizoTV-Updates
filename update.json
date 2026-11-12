@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 81,
-  "versionName": "10.44",
+  "versionCode": 82,
+  "versionName": "10.45",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.44/VizoTV-10.44.apk",
-  "sha256": "cfb5ec231e02c3538c134f4469997e5e8db7e86309b5997622d7bad0c82b3ab8",
-  "sizeBytes": 3267446,
-  "notes": "Selo simples de resolução no player (4K, Full HD, HD 720), Ajustes em tela cheia que continua aberto ao ligar ou desligar opções, versão discreta no canto da abertura e nova animação da logo."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.45/VizoTV-10.45.apk",
+  "sha256": "81eb305fd90d69083758ac9953272a6f896e9c825022855d652a0c45951ef1f8",
+  "sizeBytes": 3266164,
+  "notes": "Abertura com uma luz percorrendo o contorno do vz enquanto carrega, e o mesmo ícone animado em todos os carregamentos de filmes, séries, ao vivo e jogos, sem texto ao lado."
 }
