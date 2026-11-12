@@ -1,0 +1,3 @@
+Vizo TV 10.35
+
+TV ao vivo com transição ao abrir a lista e o guia, destaque do Início que acompanha a seleção, placar ao vivo e agenda dos próximos dias, e faixa de episódios dentro do player.
