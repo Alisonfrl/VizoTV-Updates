@@ -1,0 +1,1 @@
+Mais leve e estável: capas carregam mais rápido com links quebrados, Agora/Depois não some após falha de rede e o player libera memória ao abrir filmes e séries.
