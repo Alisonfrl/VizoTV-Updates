@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 90,
-  "versionName": "10.53",
+  "versionCode": 92,
+  "versionName": "10.55",
   "packageName": "br.alison.tv4k",
   "minSdk": 21,
-  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.53/VizoTV-10.53.apk",
-  "sha256": "bbc219a7346aaa893ac39faf3f19a1de910f3922c94d9bf86c19817894f1f8d3",
-  "sizeBytes": 3268144,
-  "notes": "Degradê da logo animado; Jogos de hoje: Voltar retorna aos jogos e ▲▼ troca entre as transmissões do jogo."
+  "apkUrl": "https://github.com/Alisonfrl/VizoTV-Updates/releases/download/v10.55/VizoTV-10.55.apk",
+  "sha256": "9ab87972b345a0409da2edc59e0b52a625b70e8bf32e03b42a63cac6bed2cdd5",
+  "sizeBytes": 3146882,
+  "notes": "Mais leve e estável: capas carregam mais rápido com links quebrados, Agora/Depois não some após falha de rede e o player libera memória ao abrir filmes e séries."
 }
